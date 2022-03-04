@@ -14,7 +14,8 @@ Your challenge is to build out this 3-column preview card component and get it l
 - See hover states for interactive elements
 
 
-## Building your project
+## Project built with :
+ - Tailwind CSS 
 
 ## Deploying your project
 - [Vercel](https://vercel.com/)
